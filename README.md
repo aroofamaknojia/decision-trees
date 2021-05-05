@@ -6,6 +6,7 @@ Process to get to the classification tree:
 3. Convert all categorical variables to dummy variables
 4. Partition the dataset to training and testing data
 5. Fit the training data into a classification tree
+
 Analysis of the tree:
 1. Confusion Matrix
 2. Accuracy Scores
