@@ -1,5 +1,6 @@
 # decision-trees
 Building a classification model that predicts the edibility of mushrooms
+
 Process to get to the classification tree:
 1. Read the dataset and explore the data to determine the dependent variable
 2. Store the feature and target variables
